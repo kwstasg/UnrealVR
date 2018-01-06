@@ -3,4 +3,4 @@ Open-source project for total conversion of the legendary Unreal Gold (1998) in 
 
 Demo VR Tour to Vortex Rikers first level of Unreal (1998)
 
-Download : https://mega.nz/#!tIAEjT7D!37txt4qzJSqsEJmYl0vEvGcOzqee2nDJatcXvPyp434
+Download : http://www.moddb.com/games/unreal-vr/downloads/unrealvr-vortex-rikers-tour
