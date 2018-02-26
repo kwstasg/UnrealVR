@@ -4,8 +4,7 @@ Open-source project for total conversion of the legendary Unreal Gold (1998) in 
 http://www.moddb.com/games/unreal-vr
 https://www.facebook.com/UnrealGoldVR/
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jFP_eGd76uI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+(https://img.youtube.com/vi/jFP_eGd76uI/0.jpg)](https://www.youtube.com/watch?v=jFP_eGd76uI)
 
 New Update! (26 Feb 2018)
 
