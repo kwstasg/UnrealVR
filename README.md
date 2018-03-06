@@ -11,6 +11,6 @@ Unreal VR on Mod DB:
 http://www.moddb.com/games/unreal-vr
 
 
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/kwstasg/UnrealVR/master/Content/Splash/Splash.png)](https://www.youtube.com/watch?v=jFP_eGd76uI)
+[![Click to play](https://raw.githubusercontent.com/kwstasg/UnrealVR/master/Content/Splash/EdSplash.png)](https://www.youtube.com/watch?v=jFP_eGd76uI)
 
 
