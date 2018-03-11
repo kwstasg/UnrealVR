@@ -1,6 +1,6 @@
 Open-source project for total conversion of the legendary Unreal Gold (1998) in Unreal Engine 4 with VR support. 
 
-<h5>Download the Latest Demo Update (04-Mar-2018) :</h5>
+<h5>Download the latest Demo update (11-Mar-2018) :</h5>
 http://www.moddb.com/games/unreal-vr/downloads/unreal-vr
 
 <h5>Unreal VR on GitHub :</h5>
