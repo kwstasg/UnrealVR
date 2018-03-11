@@ -20,10 +20,11 @@ http://www.moddb.com/games/unreal-vr
 
 New Update! (11-Mar-2018)
 =========
+-You can now visit all NyLeve map and swim in the water.<br>
 -Added breakable Glasses in VRikers.<br>
--Added Functional Switches in VRikers.<br>
+-Added Functional Switches in VRikers.<br>
 -Added access to NyLeve through VRikers hatch.<br>
--Added access to the Mine through NyLeve. <br>
+-Added access to the Mine (No functionality yet) through NyLeve.<br>
 
 New Update! (04-Mar-2018)
 =========
