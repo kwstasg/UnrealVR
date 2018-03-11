@@ -16,3 +16,30 @@ http://www.moddb.com/games/unreal-vr
 
 
 [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/kwstasg/UnrealVR/master/Content/Splash/EdSplash.png)](https://www.youtube.com/watch?v=jFP_eGd76uI)
+
+
+<h5>Update History</h5>
+
+New Update! (11-Mar-2018)
+=========
+-Added breakable Glasses in VRikers
+-Added Functional Switches in VRikers
+-Added access to NyLeve through VRikers hatch
+-Added access to the Mine through NyLeve 
+
+New Update! (04-Mar-2018)
+=========
+-Minor fixes & updates
+
+
+New Update! (26-Feb-2018)
+==========
+Testing Dual Auto-mags, Bullet Time, Laser Scopes & Particles
+
+
+New Update! (12-Feb-2018)
+==========
+The project started expanding more than a VR Tour to Vortex Rickers 
+there are 3 levels so far that can be visited in the demonstration and more are going to be released 
+
+this update is about enhancing more the Unreal Intro level by adding animated and static meshes also making minor changes to lighting to come a step close to the original.
