@@ -18,54 +18,51 @@ http://www.moddb.com/games/unreal-vr
 [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/kwstasg/UnrealVR/master/Content/Splash/EdSplash.png)](https://www.youtube.com/watch?v=jFP_eGd76uI)
 
 
-Update History
-=========
-
 New Update! (11-Mar-2018)
 =========
--Added breakable Glasses in VRikers
--Added Functional Switches in VRikers
--Added access to NyLeve through VRikers hatch
--Added access to the Mine through NyLeve 
+-Added breakable Glasses in VRikers.<br>
+-Added Functional Switches in VRikers.<br>
+-Added access to NyLeve through VRikers hatch.<br>
+-Added access to the Mine through NyLeve. <br>
 
 New Update! (04-Mar-2018)
 =========
--Minor fixes & updates
+-Minor fixes & updates.<br>
 
 
 New Update! (26-Feb-2018)
 ==========
-Testing Dual Auto-mags, Bullet Time, Laser Scopes & Particles
+Testing Dual Auto-mags, Bullet Time, Laser Scopes & Particles.<br>
 
 
 New Update! (12-Feb-2018)
 ==========
-The project started expanding more than a VR Tour to Vortex Rickers 
-there are 3 levels so far that can be visited in the demonstration and more are going to be released 
+The project started expanding more than a VR Tour to Vortex Rickers <br>
+there are 3 levels so far that can be visited in the demonstration and more are going to be released. <br>
 
-this update is about enhancing more the Unreal Intro level by adding animated and static meshes also making minor changes to lighting to come a step close to the original.
+this update is about enhancing more the Unreal Intro level by adding animated and static meshes also making minor changes to lighting to come a step close to the original.<br>
 
 
 New Update! (24-Jan-2018)
 ==========
--Minor tuneups
+-Minor tuneups.<br>
 
 
 New Update! (23-Jan-2018)
 ==========
--Added Motion Controller Support
--Added basic elevator functionality in Vortex Rikers level.
+-Added Motion Controller Support.<br>
+-Added basic elevator functionality in Vortex Rikers level.<br>
 
 
 New Update! (16-Jan-2018)
 ==========
--Added level NyLeve's Falls.
+-Added level NyLeve's Falls.<br>
 
 
 New Update! (13-Jan-2018)
 ==========
--Added level selection menu.
--Added Unreal Intro level
+-Added level selection menu.<br>
+-Added Unreal Intro level.<br>
 
 
 
