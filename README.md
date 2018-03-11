@@ -18,10 +18,11 @@ http://www.moddb.com/games/unreal-vr
 [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/kwstasg/UnrealVR/master/Content/Splash/EdSplash.png)](https://www.youtube.com/watch?v=jFP_eGd76uI)
 
 
-<h4>Update History</h4>
+Update History
+=========
 
-<h5>New Update! (11-Mar-2018)
-=========</h5>
+New Update! (11-Mar-2018)
+=========
 -Added breakable Glasses in VRikers
 -Added Functional Switches in VRikers
 -Added access to NyLeve through VRikers hatch
