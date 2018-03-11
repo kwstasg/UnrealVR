@@ -20,8 +20,8 @@ http://www.moddb.com/games/unreal-vr
 
 <h4>Update History</h4>
 
-<h5>New Update! (11-Mar-2018)</h5>
-=========
+<h5>New Update! (11-Mar-2018)
+=========</h5>
 -Added breakable Glasses in VRikers
 -Added Functional Switches in VRikers
 -Added access to NyLeve through VRikers hatch
