@@ -42,12 +42,6 @@ there are 3 levels so far that can be visited in the demonstration and more are 
 
 this update is about enhancing more the Unreal Intro level by adding animated and static meshes also making minor changes to lighting to come a step close to the original.<br>
 
-
-New Update! (24-Jan-2018)
-==========
--Minor tuneups.<br>
-
-
 New Update! (23-Jan-2018)
 ==========
 -Added Motion Controller Support.<br>
