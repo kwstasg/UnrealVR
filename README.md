@@ -1,7 +1,7 @@
 Open-source project for total conversion of the legendary Unreal Gold (1998) in Unreal Engine 4 with VR support. 
 
 <h5>Download the Oculus Quest Demo update (22-June-2019) :</h5>
-http://www.moddb.com/games/unreal-vr/downloads/unreal-vr
+https://mega.nz/#!dV53hK5S!deK2IohAP6HuPmnX772y4dVA81UiGjiHrAzMnaiAYXk
 
 <h5>Download the latest Demo update (11-Mar-2018) :</h5>
 http://www.moddb.com/games/unreal-vr/downloads/unreal-vr
