@@ -10,7 +10,7 @@ Playable on desktop or in VR. Modernized Unreal Gold for Windows with DirectX 12
 
 
 
-# Unreal VR (The old prokect)
+# Unreal VR (The old project)
 
 Open-source project for total conversion of the legendary Unreal Gold (1998) in Unreal Engine 4 with VR support. 
 
