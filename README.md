@@ -1,6 +1,8 @@
 
 # Unreal Revived + VR (New project)
 
+Playable on desktop or in VR. Modernized Unreal Gold for Windows with DirectX 12, refreshed UI, 4K and gamepad support.
+
 **[# Unreal Revived + VR](https://github.com/kwstasg/Unreal-Revived)**
 
 **[Download the latest Unreal Revived release](https://github.com/kwstasg/Unreal-Revived/releases/latest)**
